@@ -71,6 +71,7 @@ protein-design-evaluation-esm/
 │   ├── embeddings.csv
 │   ├── similarity_matrix.csv
 │   ├── design_ranking.csv
+│   ├── similarity_heatmap.png
 └── src/
 ```
 
@@ -147,6 +148,10 @@ results/design_ranking.csv
 | 3    | design_3 | 0.9994               |
 
 ---
+
+## visualization
+### Similarity heatmap
+![ESM similarity heatmap](results/similarity_heatmap.png)
 
 ## 🧪 Interpretation
 
